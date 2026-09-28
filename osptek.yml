@@ -1,0 +1,15 @@
+id: epd-1.54-240x240-spi-ist7513
+category: displays
+
+size: "1.54"
+panel: epd
+resolution: 240x240
+interface: [spi]
+shape: rect
+corner: rounded
+
+versions:
+  - id: EPD0154A10A3
+    driver: IST7513
+    touch: none
+    note: 24-pin FPC; six-color (black / white / red / yellow / blue / green); outline 31.8x37.32x0.85 mm
