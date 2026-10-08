@@ -66,6 +66,7 @@ epd-1.54-240x240-spi-ist7513/             # repo root (nav: ../../README_EN.md)
 | Resource | Link |
 | ---- | ---- |
 | Product datasheet (EPD0154A10A3) | [`docs/EPD0154A10A3.pdf`](./docs/EPD0154A10A3.pdf) |
+| Outline CAD (EPD0154A10A3) | [`docs/EPD0154A10A3.dwg`](./docs/EPD0154A10A3.dwg) |
 | 1.54″ six-color e-paper adapter schematic (V0.1) | [`docs/1.54寸6色墨水屏底板原理图V0.1.pdf`](./docs/1.54%E5%AF%B86%E8%89%B2%E5%A2%A8%E6%B0%B4%E5%B1%8F%E5%BA%95%E6%9D%BF%E5%8E%9F%E7%90%86%E5%9B%BEV0.1.pdf) |
 
 ## Buy
