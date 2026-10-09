@@ -19,6 +19,7 @@
 
 - [Overview](#overview)
 - [Specifications](#specifications)
+- [Sample projects](#sample-projects)
 - [Repository layout](#repository-layout)
 - [Resources](#resources)
 - [Buy](#buy)
@@ -46,6 +47,12 @@ Current module version: **EPD0154A10A3**. Electrical and mechanical details foll
 
 > Full outline, FPC definition, power, and timing follow the product datasheet / driver IC datasheet.
 
+## Sample projects
+
+| Description | Path |
+| ---- | ---- |
+| ESP32-S3 · IST7513 SPI with Wi-Fi web upload | [`examples/esp32s3-epd-1.54-240x240-spi-ist7513-bringup/`](./examples/esp32s3-epd-1.54-240x240-spi-ist7513-bringup/) |
+
 ## Repository layout
 
 ```text
@@ -68,6 +75,10 @@ epd-1.54-240x240-spi-ist7513/             # repo root (nav: ../../README_EN.md)
 | Product datasheet (EPD0154A10A3) | [`docs/EPD0154A10A3.pdf`](./docs/EPD0154A10A3.pdf) |
 | Outline CAD (EPD0154A10A3) | [`docs/EPD0154A10A3.dwg`](./docs/EPD0154A10A3.dwg) |
 | 1.54″ six-color e-paper adapter schematic (V0.1) | [`docs/1.54寸6色墨水屏底板原理图V0.1.pdf`](./docs/1.54%E5%AF%B86%E8%89%B2%E5%A2%A8%E6%B0%B4%E5%B1%8F%E5%BA%95%E6%9D%BF%E5%8E%9F%E7%90%86%E5%9B%BEV0.1.pdf) |
+
+### Samples
+
+- [ESP32-S3 IST7513 SPI with Wi-Fi web upload](./examples/esp32s3-epd-1.54-240x240-spi-ist7513-bringup/)
 
 ## Buy
 
